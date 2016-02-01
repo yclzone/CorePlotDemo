@@ -1,0 +1,16 @@
+PODS:
+  - CorePlot (2.0)
+  - HYDateTools (0.1.2)
+  - Masonry (0.6.4)
+
+DEPENDENCIES:
+  - CorePlot (~> 2.0)
+  - HYDateTools
+  - Masonry
+
+SPEC CHECKSUMS:
+  CorePlot: b7f422ad363f2b0e48152471d6da45ce232eb8c6
+  HYDateTools: 0b708d4e34a8841b2b018fa8a269cadcfa432886
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+
+COCOAPODS: 0.39.0
